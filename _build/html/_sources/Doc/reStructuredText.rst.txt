@@ -1,0 +1,71 @@
+====================
+Restructured text
+====================
+
+Marcado puntual
+~~~~~~~~~~~~~~~
+
+*Itálica*
+
+**Negrita**
+
+`texto interpretado`
+
+``literal largo``
+
+Referencía_
+
+`Referencia larga`_
+
+Anónimo__
+
+_`objetivo interno`
+
+|Referencia|
+
+Pié de página [1]_
+
+Listados (con espacio antes de la primera opción y después de la última)
+
+- Opción 1
+* Opción 2
++ Opción 3
+
+Enumerados (especificando nº/letra/nº romano o usando #)
+
+1 aaaa
+2 bbbb
+
+A cccc
+B dddd
+
+I eeee
+II ffff
+
+# gggg
+# hhhh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
