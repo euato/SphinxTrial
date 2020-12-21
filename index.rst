@@ -13,7 +13,7 @@ Welcome to SphinxTrial's documentation!
    Doc/doc
    Doc/reStructuredText
 
-.. todo:: Generar árbol de directorios según GSI-LI
+.. todo:: Crear árbol de directorios según GSI-LI
 
 Indices and tables
 ==================

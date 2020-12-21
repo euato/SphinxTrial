@@ -1,3 +1,0 @@
-Cabecera
-========
-Ejemplo de contenido...
