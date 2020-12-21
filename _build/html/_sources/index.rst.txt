@@ -3,15 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SphinxTrial's documentation!
+Bienvenido a GSI-wiki!
 =======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :numbered: 3
    :caption: Contents:
 
-   Doc/doc
-   Doc/reStructuredText
+   Bloque_A/Bloque_I_index.rst
 
 .. todo:: Crear árbol de directorios según GSI-LI
 
