@@ -12,6 +12,7 @@ Bienvenido a GSI-wiki!
    :caption: Contents:
 
    Bloque_A/Bloque_I_index.rst
+   Bloque_B/Bloque_II_index.rst
 
 .. todo:: Crear árbol de directorios según GSI-LI
 
