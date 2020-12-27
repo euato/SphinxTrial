@@ -88,10 +88,13 @@ html_theme = 'classic'
 #
 html_theme_options = {
     "navigation_with_keys": "true",
-    "sidebarbgcolor": "blue"
+#    "sidebarbgcolor": "#0099ff"
+    "sidebarbgcolor": "#ff66cc"
+#    "sidebarbgcolor": "#33cc33"
+#    "sidebarbgcolor": "#ff9933"
 }
 
-html_logo = '_build/html/_static/Logo_TAI_rosita.png'
+html_logo = '_static/Bloque_B_logo.jpg'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
