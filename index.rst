@@ -6,6 +6,17 @@
 Bienvenido a GSI-wiki!
 =======================================
 
+.. versionadded:: 0.11
+   Elementos básicos por bloque
+
+.. versionchanged:: 0.11
+   Configuración básica por bloque
+
+.. seealso::
+   `Prueba este enlace <https://www.sphinx-doc.org>`_
+
+.. rubric:: A heading without relation to the document sectioning
+
 .. toctree::
    :maxdepth: 3
    :numbered: 3
@@ -13,10 +24,13 @@ Bienvenido a GSI-wiki!
 
    Bloque_A/Bloque_I_index.rst
    Bloque_B/Bloque_II_index.rst
+   EjemploDirectivas.rst
 
-.. todo:: Crear árbol de directorios según GSI-LI
+Lista de tareas en todo el proyecto
+-----------------------------------
+.. todolist::
 
-Indices and tables
+Indices & tables
 ==================
 
 * :ref:`genindex`

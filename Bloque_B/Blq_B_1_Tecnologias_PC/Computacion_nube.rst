@@ -1,6 +1,8 @@
 Computación en la nube
 ======================
 
+.. todo:: Algo por hacer en Computación en la nube
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dictum lectus ac erat volutpat sollicitudin. Proin vehicula tortor a fermentum fermentum. Aenean libero ex, condimentum sit amet molestie eu, imperdiet eu tellus. Nunc non tempor tortor. Nullam et mollis enim. Nulla sit amet est id risus maximus facilisis ac at quam. Aliquam ut efficitur turpis, et mollis risus. Integer varius, risus sit amet vulputate luctus, nibh quam placerat tortor, non ultrices libero turpis ut diam. Aenean hendrerit, diam a facilisis vestibulum, erat tellus pellentesque lacus, eu vulputate lacus dolor in arcu. Nam lacinia consequat felis a viverra.
 
 Aenean euismod tristique facilisis. Cras a semper erat. Morbi consectetur mi eros, sit amet placerat tellus consequat mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus placerat consequat porttitor. Cras maximus facilisis urna, id posuere massa finibus eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eros sapien, porttitor ullamcorper gravida sed, malesuada a nisi. Etiam felis arcu, venenatis quis elit quis, congue sodales turpis. Cras commodo justo non dapibus dignissim. Donec cursus accumsan maximus. Morbi ex orci, sollicitudin id pharetra vel, mollis eget est. Curabitur aliquet non sem vitae vehicula.

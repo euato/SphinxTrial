@@ -24,7 +24,7 @@ copyright = '2020, MAGM'
 author = 'MAGM'
 
 # The short X.Y version
-version = '0.1'
+version = '0.11'
 # The full version, including alpha/beta/rc tags
 release = ''
 
@@ -100,6 +100,11 @@ html_logo = '_static/Bloque_B_logo.jpg'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# These paths are either relative to html_static_path
+html_css_files = [
+    'css/mycss.css',
+]
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -198,3 +203,8 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
+# If this is True, todo emits a warning for each TODO entries.(al hacer 'make') 
+# -> Descartado al tener ya por output el listado de las tareas
+todo_emit_warnings = False
+# If this is True, todolist produce output without file path and line
+todo_link_only = True

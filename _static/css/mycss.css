@@ -1,0 +1,29 @@
+/* CSS para todas las advertencias*/
+div.admonition-todo {
+    background-color: #ffbf80;
+    border: 1px solid #cc6600;
+}
+/* Esta clase afecta tanto a 'added' como a 'changed' */
+.versionmodified {
+    font-style: italic;
+    background-color: #66ff66;
+    border: 1px solid #009900;
+}
+
+.tip {
+    font-style: bold;
+    background-color: #66ff66;
+    border: 1px solid #009900;
+}
+
+.hint {
+    font-style: italic;
+    background-color: #66ff66;
+    border: 1px solid #009900;
+}
+
+.error {
+    font-style: italic;
+    background-color: red;
+    border: 1px solid lightred;
+}
