@@ -1,0 +1,14 @@
+#menu-outer {
+    height: 890px;
+    background: url(_static/Public_servant.png) no-repeat;
+}
+
+ul#horizontal-list {
+    list-style: none;
+    padding-top: 5px;
+    padding-right: 10px;
+    float: right;
+    }
+ul#horizontal-list li {
+    display: block;
+}
