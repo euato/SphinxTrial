@@ -4,13 +4,10 @@
    contain the root `toctree` directive.
 
 Bienvenido a GSI-wiki!
-=======================================
+======================
 
-.. versionadded:: 0.11
-   Elementos básicos por bloque
-
-.. versionchanged:: 0.11
-   Configuración básica por bloque
+.. versionadded:: 0.10
+   Indexado de bloques C & D
 
 .. seealso::
    `Prueba este enlace <https://www.sphinx-doc.org>`_
@@ -24,6 +21,8 @@ Bienvenido a GSI-wiki!
 
    Bloque_A/Bloque_I_index.rst
    Bloque_B/Bloque_II_index.rst
+   Bloque_C/Bloque_III_index.rst
+   Bloque_D/Bloque_IV_index.rst
    EjemploDirectivas.rst
 
 Lista de tareas en todo el proyecto

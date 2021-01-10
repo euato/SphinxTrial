@@ -1,0 +1,4 @@
+Paradigmas actuales de programación
+===================================
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dictum lectus ac erat volutpat sollicitudin. Proin vehicula tortor a fermentum fermentum. Aenean libero ex, condimentum sit amet molestie eu, imperdiet eu tellus. Nunc non tempor tortor. Nullam et mollis enim. Nulla sit amet est id risus maximus facilisis ac at quam. Aliquam ut efficitur turpis, et mollis risus. Integer varius, risus sit amet vulputate luctus, nibh quam placerat tortor, non ultrices libero turpis ut diam. Aenean hendrerit, diam a facilisis vestibulum, erat tellus pellentesque lacus, eu vulputate lacus dolor in arcu. Nam lacinia consequat felis a viverra.

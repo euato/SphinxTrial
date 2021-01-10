@@ -19,12 +19,12 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'SphinxTrial'
-copyright = '2020, MAGM'
-author = 'MAGM'
+project = 'Gestión Sistemas Informáticos'
+copyright = '2021, MAGM'
+author = 'euato'
 
 # The short X.Y version
-version = '0.11'
+version = '0.10'
 # The full version, including alpha/beta/rc tags
 release = ''
 
@@ -88,13 +88,13 @@ html_theme = 'classic'
 #
 html_theme_options = {
     "navigation_with_keys": "true",
-#    "sidebarbgcolor": "#0099ff"
-    "sidebarbgcolor": "#ff66cc"
+    "sidebarbgcolor": "#0099ff"
+#   "sidebarbgcolor": "#ff66cc"
 #    "sidebarbgcolor": "#33cc33"
 #    "sidebarbgcolor": "#ff9933"
 }
 
-html_logo = '_static/Bloque_B_logo.jpg'
+html_logo = '_static/Bloque_A_logo.jpg'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
