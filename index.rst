@@ -12,22 +12,29 @@ Bienvenido a GSI-wiki!
 .. seealso::
    `Prueba este enlace <https://www.sphinx-doc.org>`_
 
-.. rubric:: A heading without relation to the document sectioning
+.. topic:: Promo TAI -> GSI
+
+    * Bloque I @dmin
+    * Bloque II Tecnologías
+    * Bloque III Desarrollo
+    * Bloque IV Redes
 
 .. toctree::
-   :maxdepth: 3
-   :numbered: 3
+   :maxdepth: 2
+   :numbered: 2
    :caption: Contents:
 
    Bloque_A/Bloque_I_index.rst
    Bloque_B/Bloque_II_index.rst
    Bloque_C/Bloque_III_index.rst
    Bloque_D/Bloque_IV_index.rst
-   EjemploDirectivas.rst
-
+   Doc/Doc_index.rst
+   
 Lista de tareas en todo el proyecto
 -----------------------------------
 .. todolist::
+
+.. rubric:: A heading without relation to the document sectioning
 
 Indices & tables
 ==================

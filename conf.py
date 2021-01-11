@@ -19,14 +19,17 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Gestión Sistemas Informáticos'
+project = 'GSI - @dmin'
+#project = 'GSI - Tecnologías'
+#project = 'GSI - Desarrollo'
+#project = 'GSI - Redes'
 copyright = '2021, MAGM'
 author = 'euato'
 
 # The short X.Y version
 version = '0.10'
 # The full version, including alpha/beta/rc tags
-release = ''
+release = 'Alpha'
 
 
 # -- General configuration ---------------------------------------------------
