@@ -1,3 +1,9 @@
+/*Ancho del main*/
+div.body {
+    min-width: 600px;
+    max-width: 900px;
+}
+
 /* CSS para todas las advertencias*/
 div.admonition-todo {
     background-color: #ffbf80;
@@ -5,25 +11,37 @@ div.admonition-todo {
 }
 /* Esta clase afecta tanto a 'added' como a 'changed' */
 .versionmodified {
-    font-style: italic;
+    font-style: normal;
     background-color: #66ff66;
     border: 1px solid #009900;
 }
 
-.tip {
+div.note {
     font-style: bold;
-    background-color: #66ff66;
-    border: 1px solid #009900;
+    background-color: Moccasin;
+    border: 2px solid DarkGoldenRod;
 }
 
-.hint {
+div.tip {
     font-style: italic;
-    background-color: #66ff66;
-    border: 1px solid #009900;
+    background-color: Chartreuse;
+    border: 2px solid ForestGreen;
 }
 
-.error {
-    font-style: italic;
+div.error {
+    font-style: bold;
     background-color: red;
-    border: 1px solid lightred;
+    border: 3px solid tomato;
+}
+
+div.hint {
+    font-style: italic;
+    background-color: lightblue;
+    border: 2px dashed darkblue;
+}
+
+div.warning {
+    font-style: bold;
+    background-color: OrangeRed;
+    border: 3px solid darkorange;
 }

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="es"
+ unique-identifier="unknown"
+ prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>es</dc:language>
+    <dc:title>GSI - @dmin</dc:title>
+    <dc:description>unknown</dc:description>
+    <dc:creator>euato</dc:creator>
+    <dc:contributor>unknown</dc:contributor>
+    <dc:publisher>euato</dc:publisher>
+    <dc:rights>2021, MAGM</dc:rights>
+    <dc:identifier id="unknown">unknown</dc:identifier>
+    <dc:date>2021-01-15T20:12:26Z</dc:date>
+    <meta property="dcterms:modified">2021-01-15T20:12:26Z</meta>
+    <meta property="ibooks:version">0.10</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:binding">true</meta>
+    <meta property="ibooks:scroll-axis">vertical</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="epub-0" href="ChangeLog.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="genindex.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href="Bloque_A/Bloque_I_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="Bloque_A/Blq_A_1_Sociedad_info/Agenda_digi.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-5" href="Bloque_A/Blq_A_1_Sociedad_info/Blq_A_1_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-6" href="Bloque_A/Blq_A_1_Sociedad_info/ID_firma.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-7" href="Bloque_A/Blq_A_1_Sociedad_info/Reg_eIDAS.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-8" href="Bloque_A/Blq_A_1_Sociedad_info/Sociedad_info.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-9" href="Bloque_A/Blq_A_1_Sociedad_info/eDNI.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-10" href="Bloque_A/Blq_A_2_Protec_datos/Blq_A_2_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-11" href="Bloque_A/Blq_A_2_Protec_datos/LPD_reg_juridico.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-12" href="Bloque_A/Blq_A_3_Proced_admin/Blq_A_3_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-13" href="Bloque_A/Blq_A_3_Proced_admin/eGest_proced_admin.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-14" href="Bloque_A/Blq_A_4_Gobierno_abierto/Blq_A_4_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-15" href="Bloque_A/Blq_A_4_Gobierno_abierto/Concep_principios.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-16" href="Bloque_A/Blq_A_5_Igualdad/Blq_A_5_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-17" href="Bloque_A/Blq_A_5_Igualdad/LO_3_2007.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-18" href="Bloque_B/Bloque_II_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-19" href="Bloque_B/Blq_B_1_Tecnologias_PC/Base_tecnologica.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-20" href="Bloque_B/Blq_B_1_Tecnologias_PC/Blq_B_1_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-21" href="Bloque_B/Blq_B_1_Tecnologias_PC/Comp_func_capa.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-22" href="Bloque_B/Blq_B_1_Tecnologias_PC/Computacion_nube.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-23" href="Bloque_B/Blq_B_1_Tecnologias_PC/SuperPC_escalables.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-24" href="Bloque_B/Blq_B_2_Conceptos_SO/Blq_B_2_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-25" href="Bloque_B/Blq_B_2_Conceptos_SO/Conceptos_SO.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-26" href="Bloque_B/Blq_B_2_Conceptos_SO/Estruc_compo_func.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-27" href="Bloque_B/Blq_B_2_Conceptos_SO/SO_multiprocesador.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-28" href="Bloque_B/Blq_B_3_Lenguajes_actuales/Blq_B_3_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-29" href="Bloque_B/Blq_B_3_Lenguajes_actuales/Lenguajes.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-30" href="Bloque_B/Blq_B_3_Lenguajes_actuales/Paradigmas.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-31" href="Bloque_B/Blq_B_4_Inter_sist_abiertos_(OSI)/Arquitectura_OSI.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-32" href="Bloque_B/Blq_B_4_Inter_sist_abiertos_(OSI)/Blq_B_4_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-33" href="Bloque_B/Blq_B_4_Inter_sist_abiertos_(OSI)/Capas_OSI.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-34" href="Bloque_B/Blq_B_4_Inter_sist_abiertos_(OSI)/Direccion_encamina_OSI.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-35" href="Bloque_B/Blq_B_4_Inter_sist_abiertos_(OSI)/Interfaces_OSI.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-36" href="Bloque_B/Blq_B_4_Inter_sist_abiertos_(OSI)/Protocolos_OSI.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-37" href="Bloque_C/Bloque_III_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-38" href="Bloque_C/Blq_C_01_Ciclo_vida/Blq_C_01_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-39" href="Bloque_C/Blq_C_02_Gestion_desarrollo/Blq_C_02_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-40" href="Bloque_C/Blq_C_03_Planificacion_desarrollo/Blq_C_03_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-41" href="Bloque_C/Blq_C_04_Deter_requisitos/Blq_C_04_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-42" href="Bloque_C/Blq_C_05_Analisis_estructurado/Blq_C_05_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-43" href="Bloque_C/Blq_C_06_Model_conceptual/Blq_C_06_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-44" href="Bloque_C/Blq_C_07_Disenyo_BBDD/Blq_C_07_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-45" href="Bloque_C/Blq_C_08_Tipos_estructuras/Blq_C_08_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-46" href="Bloque_C/Blq_C_09_Disenyo_programas/Blq_C_09_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-47" href="Bloque_C/Blq_C_10_Construcc_sistema/Blq_C_10_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-48" href="Bloque_C/Blq_C_11_Pruebas/Blq_C_11_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-49" href="Bloque_C/Blq_C_12_Instalacion_cambio/Blq_C_12_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-50" href="Bloque_C/Blq_C_13_Analisis_DO/Blq_C_13_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-51" href="Bloque_C/Blq_C_14_Arquitec_java_EE/Blq_C_14_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-52" href="Bloque_C/Blq_C_15_Plataforma_NET/Blq_C_15_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-53" href="Bloque_C/Blq_C_16_App_web/Blq_C_16_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-54" href="Bloque_C/Blq_C_17_Calidad_soft/Blq_C_17_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-55" href="Bloque_C/Blq_C_18_Accesibilidad/Blq_C_18_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-56" href="Bloque_C/Blq_C_19_Mineria_datos/Blq_C_19_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-57" href="Bloque_D/Bloque_IV_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-58" href="Bloque_D/Blq_D_01_Admin_SO_SoftBase/Blq_D_01_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-59" href="Bloque_D/Blq_D_02_Admin_SGBD/Blq_D_02_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-60" href="Bloque_D/Blq_D_03_Mantenimiento_insta/Blq_D_03_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-61" href="Bloque_D/Blq_D_04_Gest_configuracion/Blq_D_04_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-62" href="Bloque_D/Blq_D_05_Ejecucion_trabajos/Blq_D_05_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-63" href="Bloque_D/Blq_D_06_Datos_masivos/Blq_D_06_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-64" href="Bloque_D/Blq_D_07_Medios_transmision/Blq_D_07_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-65" href="Bloque_D/Blq_D_08_Redes_locales/Blq_D_08_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-66" href="Bloque_D/Blq_D_09_Admin_locales/Blq_D_09_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-67" href="Bloque_D/Blq_D_10_Protocolos_TCP_IP/Blq_D_10_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-68" href="Bloque_D/Blq_D_11_Planificacion_CTI/Blq_D_11_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-69" href="Bloque_D/Blq_D_12_Conmutadas_difusion/Blq_D_12_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-70" href="Bloque_D/Blq_D_13_Seguridad_redes/Blq_D_13_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-71" href="Bloque_D/Blq_D_14_Internet/Blq_D_14_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-72" href="Bloque_D/Blq_D_15_XDSL_cable/Blq_D_15_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-73" href="Bloque_D/Blq_D_16_NextGen_convergentes/Blq_D_16_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-74" href="Bloque_D/Blq_D_17_Comunicaciones_moviles/Blq_D_17_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-75" href="Bloque_D/Blq_D_18_Redes_inalambricas/Blq_D_18_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-76" href="Bloque_D/Blq_D_19_IPmovil_PLC/Blq_D_19_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-77" href="Doc/Doc_index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-78" href="Doc/EjemploAdvertencias.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-79" href="Doc/EjemploDirectivas.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-80" href="_images/file_example_JPG_500kB.jpeg" media-type="image/jpeg" />
+    <item id="epub-81" href="_static/Bloque_A_logo.jpg" media-type="image/jpeg" />
+    <item id="epub-82" href="_static/Bloque_B_logo.jpg" media-type="image/jpeg" />
+    <item id="epub-83" href="_static/Bloque_C_logo.jpg" media-type="image/jpeg" />
+    <item id="epub-84" href="_static/Bloque_D_logo.jpg" media-type="image/jpeg" />
+    <item id="epub-85" href="_static/Public_servant.png" media-type="image/png" />
+    <item id="epub-86" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-87" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-88" href="_static/file.png" media-type="image/png" />
+    <item id="epub-89" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-90" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-91" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-92" href="_static/css/mycss.css" media-type="text/css" />
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="epub-2" />
+    <itemref idref="epub-3" />
+    <itemref idref="epub-5" />
+    <itemref idref="epub-8" />
+    <itemref idref="epub-4" />
+    <itemref idref="epub-6" />
+    <itemref idref="epub-7" />
+    <itemref idref="epub-9" />
+    <itemref idref="epub-10" />
+    <itemref idref="epub-11" />
+    <itemref idref="epub-12" />
+    <itemref idref="epub-13" />
+    <itemref idref="epub-14" />
+    <itemref idref="epub-15" />
+    <itemref idref="epub-16" />
+    <itemref idref="epub-17" />
+    <itemref idref="epub-18" />
+    <itemref idref="epub-20" />
+    <itemref idref="epub-23" />
+    <itemref idref="epub-22" />
+    <itemref idref="epub-19" />
+    <itemref idref="epub-21" />
+    <itemref idref="epub-24" />
+    <itemref idref="epub-25" />
+    <itemref idref="epub-26" />
+    <itemref idref="epub-27" />
+    <itemref idref="epub-28" />
+    <itemref idref="epub-29" />
+    <itemref idref="epub-30" />
+    <itemref idref="epub-32" />
+    <itemref idref="epub-31" />
+    <itemref idref="epub-33" />
+    <itemref idref="epub-35" />
+    <itemref idref="epub-36" />
+    <itemref idref="epub-34" />
+    <itemref idref="epub-37" />
+    <itemref idref="epub-38" />
+    <itemref idref="epub-39" />
+    <itemref idref="epub-40" />
+    <itemref idref="epub-41" />
+    <itemref idref="epub-42" />
+    <itemref idref="epub-43" />
+    <itemref idref="epub-44" />
+    <itemref idref="epub-45" />
+    <itemref idref="epub-46" />
+    <itemref idref="epub-47" />
+    <itemref idref="epub-48" />
+    <itemref idref="epub-49" />
+    <itemref idref="epub-50" />
+    <itemref idref="epub-51" />
+    <itemref idref="epub-52" />
+    <itemref idref="epub-53" />
+    <itemref idref="epub-54" />
+    <itemref idref="epub-55" />
+    <itemref idref="epub-56" />
+    <itemref idref="epub-57" />
+    <itemref idref="epub-58" />
+    <itemref idref="epub-59" />
+    <itemref idref="epub-60" />
+    <itemref idref="epub-61" />
+    <itemref idref="epub-62" />
+    <itemref idref="epub-63" />
+    <itemref idref="epub-64" />
+    <itemref idref="epub-65" />
+    <itemref idref="epub-66" />
+    <itemref idref="epub-67" />
+    <itemref idref="epub-68" />
+    <itemref idref="epub-69" />
+    <itemref idref="epub-70" />
+    <itemref idref="epub-71" />
+    <itemref idref="epub-72" />
+    <itemref idref="epub-73" />
+    <itemref idref="epub-74" />
+    <itemref idref="epub-75" />
+    <itemref idref="epub-76" />
+    <itemref idref="epub-77" />
+    <itemref idref="epub-78" />
+    <itemref idref="epub-79" />
+    <itemref idref="epub-0" />
+    <itemref idref="epub-1" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="index.xhtml" />
+  </guide>
+</package>

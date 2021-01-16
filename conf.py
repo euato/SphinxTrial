@@ -27,7 +27,7 @@ copyright = '2021, MAGM'
 author = 'euato'
 
 # The short X.Y version
-version = '0.10'
+version = '0.14'
 # The full version, including alpha/beta/rc tags
 release = 'Alpha'
 
@@ -55,7 +55,6 @@ templates_path = ['_templates']
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
-# source_suffix = ['.rst', '.md']
 source_suffix = '.rst'
 
 # The master toctree document.
@@ -92,7 +91,7 @@ html_theme = 'classic'
 html_theme_options = {
     "navigation_with_keys": "true",
     "sidebarbgcolor": "#0099ff"
-#   "sidebarbgcolor": "#ff66cc"
+#    "sidebarbgcolor": "#ff66cc"
 #    "sidebarbgcolor": "#33cc33"
 #    "sidebarbgcolor": "#ff9933"
 }

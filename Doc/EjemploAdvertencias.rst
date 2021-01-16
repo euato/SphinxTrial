@@ -1,5 +1,5 @@
 Ejemplo Advertencias
-====================
+=====================
 
 .. note:: Prueba de nota
 .. tip:: Prueba de consejo

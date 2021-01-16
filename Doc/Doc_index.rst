@@ -6,3 +6,5 @@ Documentación general
 
    EjemploAdvertencias.rst
    EjemploDirectivas.rst
+   ToDoList.rst
+   ../ChangeLog.rst

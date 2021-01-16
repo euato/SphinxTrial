@@ -6,11 +6,10 @@
 Bienvenido a GSI-wiki!
 ======================
 
-.. versionadded:: 0.10
-   Indexado de bloques C & D
+.. _GSI_Wiki:
 
-.. seealso::
-   `Prueba este enlace <https://www.sphinx-doc.org>`_
+.. versionadded:: 0.14
+   Plantilla contenido (Agenda Digital) / Nuevas directivas / CSS / ePUB
 
 .. topic:: Promo TAI -> GSI
 
@@ -29,12 +28,6 @@ Bienvenido a GSI-wiki!
    Bloque_C/Bloque_III_index.rst
    Bloque_D/Bloque_IV_index.rst
    Doc/Doc_index.rst
-   
-Lista de tareas en todo el proyecto
------------------------------------
-.. todolist::
-
-.. rubric:: A heading without relation to the document sectioning
 
 Indices & tables
 ==================

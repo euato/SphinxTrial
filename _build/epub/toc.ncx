@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>GSI - @dmin</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Bienvenido a GSI-wiki!</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Bloque I.</text>
+      </navLabel>
+      <content src="Bloque_A/Bloque_I_index.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Bloque I.</text>
+        </navLabel>
+        <content src="Bloque_A/Bloque_I_index.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Administración electrónica y políticas públicas de igualdad, dependencia y transparencia</text>
+        </navLabel>
+        <content src="Bloque_A/Bloque_I_index.xhtml#administracion-electronica-y-politicas-publicas-de-igualdad-dependencia-y-transparencia" />  
+        <navPoint id="navPoint5" playOrder="3">
+          <navLabel>
+            <text>Administración electrónica y políticas públicas de igualdad, dependencia y transparencia</text>
+          </navLabel>
+          <content src="Bloque_A/Bloque_I_index.xhtml#administracion-electronica-y-politicas-publicas-de-igualdad-dependencia-y-transparencia" />  
+        </navPoint>
+        <navPoint id="navPoint6" playOrder="4">
+          <navLabel>
+            <text>Sociedad de la información</text>
+          </navLabel>
+          <content src="Bloque_A/Blq_A_1_Sociedad_info/Blq_A_1_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint7" playOrder="5">
+          <navLabel>
+            <text>La protección de datos</text>
+          </navLabel>
+          <content src="Bloque_A/Blq_A_2_Protec_datos/Blq_A_2_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint8" playOrder="6">
+          <navLabel>
+            <text>Las Leyes de Procedimiento Administrativo Común de las Administraciones Públicas y de Régimen Jurídico del Sector Público y su normativa de desarrollo</text>
+          </navLabel>
+          <content src="Bloque_A/Blq_A_3_Proced_admin/Blq_A_3_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint9" playOrder="7">
+          <navLabel>
+            <text>Gobierno abierto</text>
+          </navLabel>
+          <content src="Bloque_A/Blq_A_4_Gobierno_abierto/Blq_A_4_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint10" playOrder="8">
+          <navLabel>
+            <text>Políticas de igualdad de género</text>
+          </navLabel>
+          <content src="Bloque_A/Blq_A_5_Igualdad/Blq_A_5_index.xhtml" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint11" playOrder="9">
+      <navLabel>
+        <text>Bloque II.</text>
+      </navLabel>
+      <content src="Bloque_B/Bloque_II_index.xhtml" />  
+      <navPoint id="navPoint12" playOrder="9">
+        <navLabel>
+          <text>Bloque II.</text>
+        </navLabel>
+        <content src="Bloque_B/Bloque_II_index.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint13" playOrder="10">
+        <navLabel>
+          <text>Tecnología básica</text>
+        </navLabel>
+        <content src="Bloque_B/Bloque_II_index.xhtml#tecnologia-basica" />  
+        <navPoint id="navPoint14" playOrder="10">
+          <navLabel>
+            <text>Tecnología básica</text>
+          </navLabel>
+          <content src="Bloque_B/Bloque_II_index.xhtml#tecnologia-basica" />  
+        </navPoint>
+        <navPoint id="navPoint15" playOrder="11">
+          <navLabel>
+            <text>Tecnologías actuales de ordenadores</text>
+          </navLabel>
+          <content src="Bloque_B/Blq_B_1_Tecnologias_PC/Blq_B_1_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint16" playOrder="12">
+          <navLabel>
+            <text>Conceptos de sistemas operativos: características, evolución y tendencias.</text>
+          </navLabel>
+          <content src="Bloque_B/Blq_B_2_Conceptos_SO/Blq_B_2_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint17" playOrder="13">
+          <navLabel>
+            <text>Características técnicas de los lenguajes y paradigmas actuales de programación.</text>
+          </navLabel>
+          <content src="Bloque_B/Blq_B_3_Lenguajes_actuales/Blq_B_3_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint18" playOrder="14">
+          <navLabel>
+            <text>El modelo TCP/IP y el modelo de referencia de interconexión de sistemas abiertos (OSI) de ISO</text>
+          </navLabel>
+          <content src="Bloque_B/Blq_B_4_Inter_sist_abiertos_(OSI)/Blq_B_4_index.xhtml" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint19" playOrder="15">
+      <navLabel>
+        <text>Bloque III.</text>
+      </navLabel>
+      <content src="Bloque_C/Bloque_III_index.xhtml" />  
+      <navPoint id="navPoint20" playOrder="15">
+        <navLabel>
+          <text>Bloque III.</text>
+        </navLabel>
+        <content src="Bloque_C/Bloque_III_index.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint21" playOrder="16">
+        <navLabel>
+          <text>Desarrollo de sistemas</text>
+        </navLabel>
+        <content src="Bloque_C/Bloque_III_index.xhtml#desarrollo-de-sistemas" />  
+        <navPoint id="navPoint22" playOrder="16">
+          <navLabel>
+            <text>Desarrollo de sistemas</text>
+          </navLabel>
+          <content src="Bloque_C/Bloque_III_index.xhtml#desarrollo-de-sistemas" />  
+        </navPoint>
+        <navPoint id="navPoint23" playOrder="17">
+          <navLabel>
+            <text>Concepto del ciclo de vida de los sistemas y fases</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_01_Ciclo_vida/Blq_C_01_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint24" playOrder="18">
+          <navLabel>
+            <text>Gestión del proceso de desarrollo</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_02_Gestion_desarrollo/Blq_C_02_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint25" playOrder="19">
+          <navLabel>
+            <text>Planificación del desarrollo</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_03_Planificacion_desarrollo/Blq_C_03_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint26" playOrder="20">
+          <navLabel>
+            <text>Estrategias de determinación de requerimientos</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_04_Deter_requisitos/Blq_C_04_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint27" playOrder="21">
+          <navLabel>
+            <text>Análisis estructurado</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_05_Analisis_estructurado/Blq_C_05_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint28" playOrder="22">
+          <navLabel>
+            <text>Modelización conceptual</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_06_Model_conceptual/Blq_C_06_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint29" playOrder="23">
+          <navLabel>
+            <text>Diseño de bases de datos</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_07_Disenyo_BBDD/Blq_C_07_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint30" playOrder="24">
+          <navLabel>
+            <text>Tipos abstractos de datos y estructuras de datos</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_08_Tipos_estructuras/Blq_C_08_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint31" playOrder="25">
+          <navLabel>
+            <text>Diseño de programas</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_09_Disenyo_programas/Blq_C_09_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint32" playOrder="26">
+          <navLabel>
+            <text>Construcción del sistema</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_10_Construcc_sistema/Blq_C_10_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint33" playOrder="27">
+          <navLabel>
+            <text>Pruebas</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_11_Pruebas/Blq_C_11_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint34" playOrder="28">
+          <navLabel>
+            <text>Instalación y cambio</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_12_Instalacion_cambio/Blq_C_12_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint35" playOrder="29">
+          <navLabel>
+            <text>Análisis y diseño orientado a objetos</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_13_Analisis_DO/Blq_C_13_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint36" playOrder="30">
+          <navLabel>
+            <text>La arquitectura Java EE</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_14_Arquitec_java_EE/Blq_C_14_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint37" playOrder="31">
+          <navLabel>
+            <text>La plataforma .Net</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_15_Plataforma_NET/Blq_C_15_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint38" playOrder="32">
+          <navLabel>
+            <text>Aplicaciones web</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_16_App_web/Blq_C_16_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint39" playOrder="33">
+          <navLabel>
+            <text>La calidad del software y su medida</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_17_Calidad_soft/Blq_C_17_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint40" playOrder="34">
+          <navLabel>
+            <text>Accesibilidad, diseño universal y usabilidad</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_18_Accesibilidad/Blq_C_18_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint41" playOrder="35">
+          <navLabel>
+            <text>Minería de datos</text>
+          </navLabel>
+          <content src="Bloque_C/Blq_C_19_Mineria_datos/Blq_C_19_index.xhtml" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint42" playOrder="36">
+      <navLabel>
+        <text>Bloque IV.</text>
+      </navLabel>
+      <content src="Bloque_D/Bloque_IV_index.xhtml" />  
+      <navPoint id="navPoint43" playOrder="36">
+        <navLabel>
+          <text>Bloque IV.</text>
+        </navLabel>
+        <content src="Bloque_D/Bloque_IV_index.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint44" playOrder="37">
+        <navLabel>
+          <text>Sistemas y comunicaciones</text>
+        </navLabel>
+        <content src="Bloque_D/Bloque_IV_index.xhtml#sistemas-y-comunicaciones" />  
+        <navPoint id="navPoint45" playOrder="37">
+          <navLabel>
+            <text>Sistemas y comunicaciones</text>
+          </navLabel>
+          <content src="Bloque_D/Bloque_IV_index.xhtml#sistemas-y-comunicaciones" />  
+        </navPoint>
+        <navPoint id="navPoint46" playOrder="38">
+          <navLabel>
+            <text>Administración del sistema operativo y software de base</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_01_Admin_SO_SoftBase/Blq_D_01_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint47" playOrder="39">
+          <navLabel>
+            <text>Administración de sistemas de gestión de bases de datos</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_02_Admin_SGBD/Blq_D_02_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint48" playOrder="40">
+          <navLabel>
+            <text>Prácticas de mantenimiento de equipos e instalaciones</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_03_Mantenimiento_insta/Blq_D_03_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint49" playOrder="41">
+          <navLabel>
+            <text>Gestión de la configuración</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_04_Gest_configuracion/Blq_D_04_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint50" playOrder="42">
+          <navLabel>
+            <text>Control de la ejecución de los trabajos</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_05_Ejecucion_trabajos/Blq_D_05_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint51" playOrder="43">
+          <navLabel>
+            <text>Almacenamiento masivo de datos</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_06_Datos_masivos/Blq_D_06_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint52" playOrder="44">
+          <navLabel>
+            <text>Medios de transmisión guiados y no guiados (inalámbricos)</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_07_Medios_transmision/Blq_D_07_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint53" playOrder="45">
+          <navLabel>
+            <text>Redes locales</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_08_Redes_locales/Blq_D_08_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint54" playOrder="46">
+          <navLabel>
+            <text>Administración de redes locales</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_09_Admin_locales/Blq_D_09_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint55" playOrder="47">
+          <navLabel>
+            <text>Principales protocolos de la arquitectura de comunicaciones TCP/IP</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_10_Protocolos_TCP_IP/Blq_D_10_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint56" playOrder="48">
+          <navLabel>
+            <text>Planificación física de un centro de tratamiento de la información</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_11_Planificacion_CTI/Blq_D_11_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint57" playOrder="49">
+          <navLabel>
+            <text>Redes conmutadas y de difusión</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_12_Conmutadas_difusion/Blq_D_12_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint58" playOrder="50">
+          <navLabel>
+            <text>La seguridad en redes</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_13_Seguridad_redes/Blq_D_13_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint59" playOrder="51">
+          <navLabel>
+            <text>La red Internet</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_14_Internet/Blq_D_14_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint60" playOrder="52">
+          <navLabel>
+            <text>Tecnología XDSL y telecomunicaciones por cable</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_15_XDSL_cable/Blq_D_15_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint61" playOrder="53">
+          <navLabel>
+            <text>Redes de nueva generación y servicios convergentes (NGN/IMS)</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_16_NextGen_convergentes/Blq_D_16_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint62" playOrder="54">
+          <navLabel>
+            <text>Sistemas de comunicaciones móviles</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_17_Comunicaciones_moviles/Blq_D_17_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint63" playOrder="55">
+          <navLabel>
+            <text>Redes inalámbricas</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_18_Redes_inalambricas/Blq_D_18_index.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint64" playOrder="56">
+          <navLabel>
+            <text>IP móvil y PLC (Power Line Comunications)</text>
+          </navLabel>
+          <content src="Bloque_D/Blq_D_19_IPmovil_PLC/Blq_D_19_index.xhtml" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint65" playOrder="57">
+      <navLabel>
+        <text>Documentación general</text>
+      </navLabel>
+      <content src="Doc/Doc_index.xhtml" />  
+      <navPoint id="navPoint66" playOrder="57">
+        <navLabel>
+          <text>Documentación general</text>
+        </navLabel>
+        <content src="Doc/Doc_index.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint67" playOrder="58">
+        <navLabel>
+          <text>Ejemplo Advertencias</text>
+        </navLabel>
+        <content src="Doc/EjemploAdvertencias.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint68" playOrder="59">
+        <navLabel>
+          <text>Ejemplo Directivas</text>
+        </navLabel>
+        <content src="Doc/EjemploDirectivas.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint69" playOrder="60">
+        <navLabel>
+          <text>Log de Versiones</text>
+        </navLabel>
+        <content src="ChangeLog.xhtml" />  
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
